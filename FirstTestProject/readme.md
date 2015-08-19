@@ -1,1 +1,1 @@
-This is a test GIT project
+This is a test GIT project in eclipse
